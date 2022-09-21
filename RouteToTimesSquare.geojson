@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RouteToTimesSquare",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 6 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.982226634298343, 40.767658599848822 ], [ -73.990375635702577, 40.756415511714614 ], [ -73.984570325399631, 40.754107067460708 ], [ -73.982037189151612, 40.7576446392899 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } }
+]
+}
